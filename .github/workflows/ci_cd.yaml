@@ -39,4 +39,9 @@ jobs:
           app_key: ${{ secrets.DD_APP_KEY }}
           datadog_site: "us5.datadoghq.com"
           public_ids: |
-            5kv-wu5-7ys
+            8v5-qgp-sqp
+            t33-icr-btt
+            rvr-ai5-jwz 
+            mfh-mxc-59t
+            dss-kks-zzs
+            xfr-iwx-9e6
